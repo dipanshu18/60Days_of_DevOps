@@ -27,3 +27,5 @@ The main takeaway is Agile at core is the heart of Continuous Integration & Cont
 And the Agile methodology introduction or adoption by companies has supported the need for DevOps taks. Because DevOps is actually implementing the best practices or most of the practices that Agile framework inroduces. 
 
 The main aim of DevOps is CI/CD(Continuous Integration & Continuous Delivery) to develop and deploy applications/features as fast as possible and automate tasks. 
+
+Link to video for better understanding:- https://www.youtube.com/watch?v=0yWAtQ6wYNM
