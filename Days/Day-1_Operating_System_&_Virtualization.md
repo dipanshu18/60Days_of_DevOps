@@ -26,7 +26,7 @@ Operating System can interact with hardware & applications so it is like a middl
         <li>Storage Management</li>
         <li>Manage File System</li>
         <li>Management of I/O Devices</li>
-        <li>Security & Networking and so on.</li>
+        <li>Security & Networking</li>
     </ol>
 </p>
 
