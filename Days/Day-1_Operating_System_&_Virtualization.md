@@ -44,12 +44,14 @@ Eg:- Different Linux Distros like Ubuntu, Mint, CentOS, etc. Android is also bas
 
 <p>How to interact with kernel? <br>
 Graphical User Interface(GUI) ---> Command Line Interface(CLI) <br>
-There are 3 main operating system for computers:- 
+
+<p>There are 3 main operating system for computers:-  
     <ul>
         <li>Linux</li>
         <li>Windows</li>
         <li>MacOS</li>
     </ul>
+</p>    
 Each OS has many versions. Kernel stays the same! but application layer is being developed & improved. <br>
 </p>
 
