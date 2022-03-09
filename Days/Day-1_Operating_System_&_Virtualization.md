@@ -102,4 +102,6 @@ Each OS has many versions. Kernel stays the same! but application layer is being
         </ul>
     </li>
 Eg:- AWS, Azure, GCP, etc.
-</p>
+</p> 
+
+Link for blog:- https://dipanshutorawane.hashnode.dev/operating-system-and-virtualization
