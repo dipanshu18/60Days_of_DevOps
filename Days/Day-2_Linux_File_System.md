@@ -8,7 +8,7 @@
     <ul>
         <li>/ or /root: root user's home directory which is separate from other users</li>
         <li>/home: contains home directories of all non-root users.</li>
-        <li>/bin(stands for binaries): execitables for most essential user commands(all files are system-wide usable)
+        <li>/bin(stands for binaries): executables for most essential user commands(all files are system-wide usable)
             <ul>
                 <li>What is binary? <br>
                     Computer readable format (just 0's & 1's)
