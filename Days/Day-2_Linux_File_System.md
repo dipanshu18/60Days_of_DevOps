@@ -8,7 +8,7 @@
     <ul>
         <li>/ or /root: root user's home directory which is separate from other users</li>
         <li>/home: contains home directories of all non-root users.</li>
-        <li>/bin(stands for binaries): execitables for most essential user commands(all files are system-wide usable)
+        <li>/bin(stands for binaries): executables for most essential user commands(all files are system-wide usable)
             <ul>
                 <li>What is binary? <br>
                     Computer readable format (just 0's & 1's)
@@ -19,7 +19,7 @@
         <li>/lib, /lib32, /lib64, /libx32: essential shared libraries that executables from <strong>/bin</strong> <em>or</em> <strong>/sbin</strong> use.</li>
         <li>/usr(user): this was used for user home or directories(contains the same /bin, /sbin, /lib folders).
             <ul>
-                <h3>Why /usr contains these folders?</h3>
+                <p><strong>Why /usr contains these folders?</strong></p>
                 <li>historic reasons(as UNIX also had those splits)</li>
                 <li>Because of storage limitations it was split to root binary folders ad user binary folders.</li>
                 <li><strong>Note:-</strong> When we execute basic linux commands they are executed from /usr/bin folder</li>
@@ -78,3 +78,4 @@
         <li>In UNIX, it is also called 'dotfiles'.</li>
     </ul>
 </p>
+Link to my blog:- https://dipanshutorawane.hashnode.dev/linux-file-system
