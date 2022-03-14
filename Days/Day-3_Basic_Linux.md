@@ -47,7 +47,7 @@
         Eg; Firefox Browser, it requires dependencies which are not packaged into the archive. These dependencies also need to be installed.
         </p>
     <h4>What is package manager?</h4>
-        <p>Files are spilt across different folders. Not like Windows, where every program is installed in a single file in Program Files. In Windows, it also easy to uninstall program as they are in single folder but in Linux, managing apps uninstalling everything completely is more difficult(as they are splitted).</p>
+        <p>Files are split across different folders. Not like Windows, where every program is installed in a single file in Program Files. In Windows, it also easy to uninstall program as they are in single folder but in Linux, managing apps uninstalling everything completely is more difficult(as they are splitted).</p>
         <p>Package Manager:-
             <li>downloads, installs or updates existing software from a repository.</li>
             <li>ensures the integrity & authenticity of the package.</li>
