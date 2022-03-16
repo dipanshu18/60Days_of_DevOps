@@ -49,7 +49,7 @@
     <h4>What is package manager?</h4>
         <p>Files are split across different folders. Not like Windows, where every program is installed in a single file in Program Files. In Windows, it also easy to uninstall program as they are in single folder but in Linux, managing apps uninstalling everything completely is more difficult(as they are splitted).</p>
         <p>Package Manager:-
-            <li>downloads, installs or updates existing software from a repository.</li>
+            <li>downloads, installs or updates existing software from the repository.</li>
             <li>ensures the integrity & authenticity of the package.</li>
             <li>manages & resolves all required dependencies.</li>
             <li>knows where to put all the files in Linux file system.</li>
