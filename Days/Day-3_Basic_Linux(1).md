@@ -4,7 +4,7 @@
             <ul>
                 <li>pwd(print working directory) - Show current directory</li>
                 <li>cd [dir name] : Change directory to [dir]</li>
-                <li>cd .. : Move one level up<li/>
+                <li>cd .. : Move one level up</li>
                 <li>mkdir [dir name] : Make directory of [dir name] </li>
                 <li>ls : Lists all files and directories in the present working directory</li>
                 <li>ls -R : Lists files in sub-directories as well</li>
@@ -24,7 +24,6 @@
                 <li>history : Gives a list of all past commands typed in the current terminal session</li>
                 <li>history [number] : Gives the previous [number's] of command</li>
                 <li>touch [filename] : creates [filename]</li>
-                <li></li>
                 <li>clear : Clears the terminal</li>
                 <li>cp -r [dirname] [new_filename] : copy dirname to new_filename</li>
                 <li>Ctrl + C : stop current command</li>
@@ -48,7 +47,7 @@
         Eg; Firefox Browser, it requires dependencies which are not packaged into the archive. These dependencies also need to be installed.
         </p>
     <h4>What is package manager?</h4>
-        <p>Files are spilt across different folders. Not like Windows, where every program is installed in a single file in Program Files. In Windows, it also easy to uninstall program as they are in single folder but in Linux, managing apps uninstalling everything completely is more difficult(as they are splitted).</p>
+        <p>Files are split across different folders. Not like Windows, where every program is installed in a single file in Program Files. In Windows, it also easy to uninstall program as they are in single folder but in Linux, managing apps uninstalling everything completely is more difficult(as they are splitted).</p>
         <p>Package Manager:-
             <li>downloads, installs or updates existing software from a repository.</li>
             <li>ensures the integrity & authenticity of the package.</li>
