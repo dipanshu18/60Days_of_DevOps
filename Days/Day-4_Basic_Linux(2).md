@@ -341,3 +341,5 @@ The output from one program can become the input of another command.
 
 <strong>*We cannot execute many commands in one line but can be done by separating them with ';' (semi-colon)</strong> <br>
 Eg; clear; sleep 2; echo "Hello, welcome back"
+
+Link to my blog:- https://dipanshutorawane.hashnode.dev/basic-linux2
