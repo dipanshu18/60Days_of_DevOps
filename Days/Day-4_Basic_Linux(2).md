@@ -136,7 +136,7 @@
             <ul>
                 <li>Stores user account information.</li>
                 <li>Everyone can read it but only root user can change the file.</li>
-                <!-- Image -->
+                <img src="http://etutorials.org/shared/images/tutorials/tutorial_99/541331fg1204.jpg">
             </ul>
         </li>
         <li>/etc/shadow
@@ -259,7 +259,7 @@ There are two levels of a file/directory.
 </p>
 
 <h5>File Permissions;</h5>
-<!-- Image -->
+<img src="https://i.pinimg.com/originals/d3/e7/4a/d3e74a87f423bbb62e39d9de30e6399d.gif">
 
 <h5>Modifying Permissions;</h5>
 <p>[Symbolic values method] ->
@@ -293,10 +293,10 @@ There are two levels of a file/directory.
         </ul>
     </li>
 </ul>
-[Numeric values method] ->
+[Numeric values method] -> 
 <ul>
-    <li>sudo chmod [numeric value] {filename} 
-        <!-- Images -->
+    <li>sudo chmod [numeric value] {filename}  <br>
+        <img src="http://2.bp.blogspot.com/-V2eWUJugBJ0/Ui4Y1TJ45aI/AAAAAAAAAzQ/gwxcb-GlTGA/s1600/chmod4.png">
     </li>
 </ul>
 </p>
