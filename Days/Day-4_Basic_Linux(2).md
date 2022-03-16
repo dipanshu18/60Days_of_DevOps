@@ -210,7 +210,7 @@
 </ul>
 <strong>Same goes for deluser<em>(deletes user)</em> delgroup<em>(deletes groups)</em> & userdel groupdel.</strong>
 <ul>
-    <li>usemod [options] [username] -> modify a user account.</li>
+    <li>usermod [options] [username] -> modify a user account.</li>
     <li>for changing group -> usermod -g [groupname] [username]</li>
 </ul>
 <p> <strong>In additional</strong> to one primary group, user can have multiple secondary groups & as a result user will get all the permissions that the groups have which it belongs to (means we can add one user to multiple groups). </p>
